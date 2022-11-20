@@ -1,1 +1,2 @@
-# AOJ
+# Teach My Kid 
+Python, C++, Dart?...
